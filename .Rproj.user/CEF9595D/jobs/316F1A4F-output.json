@@ -1,6 +1,0 @@
-[1,"Installing 'visdat' ...\n"]
-[2,"trying URL 'https://cran.rstudio.com/bin/macosx/contrib/4.1/visdat_0.6.0.tgz'\n"]
-[2,"Content type 'application/x-gzip' length 1140052 bytes (1.1 MB)\n==================================================\ndownloaded 1.1 MB\n\n"]
-[1,"The downloaded binary packages are in\n"]
-[1,"\t/var/folders/df/9mhj2c9d32lf9f0p25vx7l080000gq/T//RtmpVt55G2/downloaded_packages\n"]
-[2,"\n\n✔ Package 'visdat' successfully installed.\n"]
