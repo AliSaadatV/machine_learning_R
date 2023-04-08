@@ -1,0 +1,27 @@
+{
+    "id": "3DE66912",
+    "path": "~/Documents/R_projects/ML_R/6_regularized_regression/main.R",
+    "project_path": "6_regularized_regression/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1680959812422.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680961196,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680961196278,
+    "read_only": false,
+    "read_only_alternatives": []
+}
