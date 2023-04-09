@@ -1,27 +1,27 @@
 {
-    "id": "BEF3C79C",
-    "path": "~/Documents/R_projects/ML_R/7_multivariate_adaptive_regression_splines/main.R",
-    "project_path": "7_multivariate_adaptive_regression_splines/main.R",
+    "id": "73E18CB8",
+    "path": "~/Documents/R_projects/ML_R/9_decision_trees/main.R",
+    "project_path": "9_decision_trees/main.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "558197427",
     "contents": "",
     "dirty": false,
-    "created": 1680962051425.0,
+    "created": 1681052686247.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "90,45",
-        "scrollLine": "66"
+        "cursorPosition": "54,45",
+        "scrollLine": "32"
     },
     "folds": "",
-    "lastKnownWriteTime": 1680963789,
+    "lastKnownWriteTime": 1681054634,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680963789898,
+    "last_content_update": 1681054634781,
     "read_only": false,
     "read_only_alternatives": []
 }
